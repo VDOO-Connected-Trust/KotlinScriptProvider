@@ -100,7 +100,7 @@ Once done, a zip archive with the extension will be created under the `dist` dir
 
 
 [install-kotlinc]: https://kotlinlang.org/docs/tutorials/command-line.html
-[latest-release]: #
+[latest-release]: https://github.com/VDOO-Connected-Trust/KotlinScriptProvider/releases/latest
 [install-gradle]: https://gradle.org/install/
 [create kotlin project]: https://kotlinlang.org/docs/tutorials/getting-started.html
 [define-global-library]: https://www.jetbrains.com/help/idea/library.html#define-global-library
